@@ -1,0 +1,8 @@
+*.o
+*.obj
+*.orig
+*.swp
+*.tmp
+tags
+spd
+*~
